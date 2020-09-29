@@ -1,0 +1,6 @@
+[
+{"id":1, "text": "Project", "divided": true},
+{"id":2, "text": "Overview", "divided": false},
+{"id":3, "text": "Activity", "divided": false},
+{"id":4, "text": "Multiplier", "divided": false}
+]
