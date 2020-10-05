@@ -1,5 +1,5 @@
 [
-    {"year": 2020, "projects": 82, "total_projects": 2270230.64, "pos": 9, "total_pos": 7959.83},
-    {"year":2019, "projects": 12, "total_projects": 75136.76, "pos": 0, "total_pos": 0.00},
-    {"year":2018, "projects": 9, "total_projects": 41808.56, "pos":0, "total_pos": 0.00}
+    {"Year": 2020, "Projects": 82, "Total_Projects": 2270230.64, "POs": 9, "Total_POs": 7959.83},
+    {"Year":2019, "Projects": 12, "Total_Projects": 75136.76, "POs": 0, "Total_POs": 0.00},
+    {"Year":2018, "Projects": 9, "Total_Projects": 41808.56, "POs":0, "Total_POs": 0.00}
 ]
