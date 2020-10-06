@@ -26,7 +26,7 @@
     },
     {
       "Work_Order": 22007992,
-      "Work_Order": "21 Sep, 2020",
+      "WorkOrder": "21 Sep, 2020",
       "Expected": "02 Oct, 2020",
       "Shipping": "02 Oct, 2020",
       "Revision": 0,
