@@ -1,7 +1,7 @@
 [
-    {"id": "year", "label": "Year"},
-    {"id": "projects", "label": "Projects"},
-    {"id": "total_projects", "label": "Total Projects"},
-    {"id": "pos", "label": "POs"},
-    {"id": "total_pos", "label": "Total POs"}
+    {"id": "Year", "type": "qty"},
+    {"id": "Projects", "type": "qty"},
+    {"id": "Total_Projects", "type": "money"},
+    {"id": "POs", "type": "money"},
+    {"id": "Total_POs", "type": "money"}
 ]
