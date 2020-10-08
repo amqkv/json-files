@@ -1,5 +1,5 @@
 [
-    {"id": "year", "label": "Year},
+    {"id": "year", "label": "Year"},
     {"id": "projects", "label": "Projects"},
     {"id": "total_projects", "label": "Total Projects"},
     {"id": "pos", "label": "POs"},
