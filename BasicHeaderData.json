@@ -2,6 +2,6 @@
     {"id": "Year", "type": "qty"},
     {"id": "Projects", "type": "qty"},
     {"id": "Total_Projects", "type": "money"},
-    {"id": "POs", "type": "money"},
+    {"id": "POs", "type": "qty"},
     {"id": "Total_POs", "type": "money"}
 ]
