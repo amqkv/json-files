@@ -1,13 +1,13 @@
 [
-    {"id": 1, "text": "Name", "type": "text", "options": [], "baseValue": "", "confirmation_btn" : ""}, 
-    {"id": 2, "text": "Email", "type": "email", "options": [], "baseValue": "", "confirmation_btn" : "", 
-    {"id": 3, "text": "Password", "type": "password", "options": [], "baseValue": "", "confirmation_btn" : ""}, 
-    {"id": 4, "text": "Cellphone number", "type": "cellphone", "options": [], "baseValue": "", "confirmation_btn" : ""}, 
-    {"id": 5, "text": "Language", "type": "radiobox", "options": ["English", "French"], "baseValue": "", "confirmation_btn" : ""}, 
-    {"id": 6, "text": "Units", "type": "radiobox", "options": ["Imperial", "Metric"], "baseValue": "", "confirmation_btn" : ""}, 
-    {"id": 7, "text": "User state", "type": "checkbox", "options": ["Active"], "baseValue": {}, "confirmation_btn" : ""}, 
-    {"id": 8 , "text": "Standard", "type": "radiobox", "options": ["Canada", "USA", "Client Select"], "baseValue": "", "confirmation_btn" : ""}, 
-    {"id": 9, "text": "User type", "type": "selectbox", "options": ["Super User", "Reprensentative", "Head Representative", "Super User"], "baseValue": "", "confirmation_btn" : ""}, 
-    {"id": 10, "text": "Permissions", "type": "checkbox", "options": ["Can create/edit/delete jobs", "Can create/edit/delete user","Can create/edit/delete company","Can see heater price","Can see heater cost","Can see parts", "Can set multipliers","Can submit P.O."], "baseValue": {}, "confirmation_btn" : ""},
-    {"id": 11, "text": "Date picker", "type": "date", "options": [], "baseValue":"", "confirmation_btn" : ""}
+    {"id": 1, "text": "Name", "type": "text", "options": [], "baseValue": ""}, 
+    {"id": 2, "text": "Email", "type": "email", "options": [], "baseValue": ""}, 
+    {"id": 3, "text": "Password", "type": "password", "options": [], "baseValue": ""}, 
+    {"id": 4, "text": "Cellphone number", "type": "cellphone", "options": [], "baseValue": ""}, 
+    {"id": 5, "text": "Language", "type": "radiobox", "options": ["English", "French"], "baseValue": ""}, 
+    {"id": 6, "text": "Units", "type": "radiobox", "options": ["Imperial", "Metric"], "baseValue": ""}, 
+    {"id": 7, "text": "User state", "type": "checkbox", "options": ["Active"], "baseValue": {}}, 
+    {"id": 8 , "text": "Standard", "type": "radiobox", "options": ["Canada", "USA", "Client Select"], "baseValue": ""}, 
+    {"id": 9, "text": "User type", "type": "selectbox", "options": ["Super User", "Reprensentative", "Head Representative", "Super User"], "baseValue": ""}, 
+    {"id": 10, "text": "Permissions", "type": "checkbox", "options": ["Can create/edit/delete jobs", "Can create/edit/delete user","Can create/edit/delete company","Can see heater price","Can see heater cost","Can see parts", "Can set multipliers","Can submit P.O."], "baseValue": {}},
+    {"id": 11, "text": "Date picker", "type": "date", "options": [], "baseValue":""}
 ]
